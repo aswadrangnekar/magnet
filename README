@@ -1,6 +1,5 @@
-Magnet
-======
-
+'''Document Clustering'''
+    
 Tool to cluster similar documents together.
 It currently relies on Apriori algorithm to cluster documents together.
 
